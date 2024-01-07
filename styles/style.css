@@ -1,0 +1,27 @@
+ @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Open+Sans:wght@300;400;800&family=Work+Sans:ital,wght@0,200;0,400;0,500;0,700;1,200;1,800&display=swap');
+
+ *{
+    margin: 0;
+    padding: 0;
+ }
+ header{
+    background-image: url("../images/dwonlod.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+ }
+ 
+ .container{
+    height: 808px;
+    position: relative;
+ }
+ .banner-text{
+    color: #FFF;
+    text-align: right;
+    margin-left: 500px;
+    border: 2px solid tomato;
+    position: absolute;
+    top: 400px;
+    right: 100px;
+ }
